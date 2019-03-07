@@ -1,6 +1,6 @@
 // using this file is optional
 // you can also load the code snippets in using your browser's console
-node.addEventListener();{
+var .addEventListener();{
   const main = document.getElementById('main');
 
 main.addEventListener('click', function(event) {
